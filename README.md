@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer-yelleti&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer-yelleti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudheer-yelleti" alt="sudheer-yelleti" /></a> </p>
+<p align="left"> <a href="https://github.com/sudheer-yelleti/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudheer-yelleti" alt="sudheer-yelleti" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps, Python**
 
