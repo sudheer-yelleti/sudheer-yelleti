@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Python**
 
-- 💬 Ask me about **.NET, Azure, Docker, Kubernetes, SQL**
+- 💬 Ask me about **C#, .NET, Azure, Docker, Kubernetes, SQL**
 
 - 📫 How to reach me **sudheer.167@gmail.com**
 
